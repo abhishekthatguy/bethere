@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import 'ant-design-pro/dist/ant-design-pro.css';
+//this library is used for adding ant design to react project
 import './index.less';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
