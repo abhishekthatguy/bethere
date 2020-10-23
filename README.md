@@ -3,3 +3,42 @@
 #the project.
 # beThere
 # beThere
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# this file i am changing into underdevelop branch for testing conflict resolver file into git community 
+
+#Under Develpment 
+
+$ under development branch 
