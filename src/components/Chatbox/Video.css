@@ -1,0 +1,13 @@
+
+.commentBox{
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    min-height:"370px";
+    background: "#efebeb";
+    overflow:"scroll";
+}
+.ant-spin-nested-loading{    height: 300px;
+    margin: 0px auto;
+    overflow: scroll;
+}
